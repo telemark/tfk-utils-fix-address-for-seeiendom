@@ -1,6 +1,6 @@
 {
   "name": "tfk-utils-fix-address-for-seeiendom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Fixes address before use with seeiendom",
   "license": "MIT",
   "author": {
@@ -27,8 +27,8 @@
     "url": "git://github.com/telemark/tfk-utils-fix-address-for-seeiendom.git"
   },
   "devDependencies": {
-    "coveralls": "^2.11.6",
-    "standard": "^5.4.1",
-    "tap": "^2.3.2"
+    "coveralls": "2.11.9",
+    "standard": "7.1.1",
+    "tap": "5.7.2"
   }
 }
