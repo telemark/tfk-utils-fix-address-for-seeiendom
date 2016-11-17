@@ -1,6 +1,6 @@
 {
   "name": "tfk-utils-fix-address-for-seeiendom",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Fixes address before use with seeiendom",
   "license": "MIT",
   "author": {
@@ -14,7 +14,7 @@
   "homepage": "https://github.com/telemark/tfk-utils-fix-address-for-seeiendom",
   "main": "index.js",
   "engines": {
-    "node": ">=4.6.1"
+    "node": ">=4.6.2"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/*.js",
