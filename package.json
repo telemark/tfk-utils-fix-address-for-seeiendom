@@ -1,6 +1,6 @@
 {
   "name": "tfk-utils-fix-address-for-seeiendom",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "description": "Fixes address before use with seeiendom",
   "license": "MIT",
   "author": {
@@ -30,6 +30,6 @@
     "standard": "10.0.2",
     "coveralls": "2.13.1",
     "nsp": "2.6.3",
-    "tap": "10.4.0"
+    "tap": "10.3.3"
   }
 }
