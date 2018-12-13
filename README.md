@@ -1,7 +1,6 @@
 [![Build Status](https://travis-ci.org/telemark/tfk-utils-fix-address-for-seeiendom.svg?branch=master)](https://travis-ci.org/telemark/tfk-utils-fix-address-for-seeiendom)
 [![Coverage Status](https://coveralls.io/repos/telemark/tfk-utils-fix-address-for-seeiendom/badge.svg?branch=master&service=github)](https://coveralls.io/github/telemark/tfk-utils-fix-address-for-seeiendom?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-utils-fix-address-for-seeiendom.svg)](https://greenkeeper.io/)
 
 # tfk-utils-fix-address-for-seeiendom
 
@@ -19,18 +18,16 @@ From GitHub
 $ git clone git@github.com:telemark/tfk-utils-fix-address-for-seeiendom.git
 ```
 
-cd into directory and run setup
+cd into directory and install dependencies
 ```sh
-$ npm run setup
+$ npm install
 ```
 
 ## Usage
 
-```javascript
-'use strict'
-
-var fixAddress = require('tfk-utils-fix-address-for-seeiendom')
-var address = 'Dream Street 48 D, 1732 Høtten'
+```JavaScript
+const fixAddress = require('tfk-utils-fix-address-for-seeiendom')
+const address = 'Dream Street 48 D, 1732 Høtten'
 
 console.log(fixAddress(address))
 
@@ -40,5 +37,3 @@ console.log(fixAddress(address))
 ## License
 
 [MIT](LICENSE)
-
-![Robohash image of tfk-utils-fix-address-for-seeiendom](https://robots.kebabstudios.party/tfk-utils-fix-address-for-seeiendom.png "Robohash image of tfk-utils-fix-address-for-seeiendom")
