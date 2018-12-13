@@ -14,6 +14,6 @@ tap.throws(
   function () {
     fixAddress()
   },
-  {message: 'Missing required input: address'},
+  { message: 'Missing required input: address' },
   'Throws if address not supplied'
 )

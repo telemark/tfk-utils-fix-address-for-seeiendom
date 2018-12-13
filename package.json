@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/telemark/tfk-utils-fix-address-for-seeiendom.git"
+    "url": "git+https://github.com/telemark/tfk-utils-fix-address-for-seeiendom.git"
   },
   "devDependencies": {
     "coveralls": "3.0.2",
