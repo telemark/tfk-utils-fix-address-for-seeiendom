@@ -14,7 +14,7 @@
   "homepage": "https://github.com/telemark/tfk-utils-fix-address-for-seeiendom#readme",
   "main": "index.js",
   "engines": {
-    "node": ">=8.11.1"
+    "node": ">=8.14.0"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/*.js",
