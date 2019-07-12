@@ -29,7 +29,7 @@
     "url": "git+https://github.com/telemark/tfk-utils-fix-address-for-seeiendom.git"
   },
   "devDependencies": {
-    "coveralls": "3.0.4",
+    "coveralls": "3.0.5",
     "standard": "13.0.1",
     "tap": "14.4.1"
   }
